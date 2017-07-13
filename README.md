@@ -4,7 +4,7 @@
     一款懂你的陌生人社交APP<br> 
 # 二. 项目内容<br> 
 ## 1.产品使用流程：<br> 
-    ![image](https://raw.githubusercontent.com/fwdhz998/getyou/master/imgfolder/%E5%9B%BE%E7%89%871.png)
+   ![image](https://raw.githubusercontent.com/fwdhz998/getyou/master/imgfolder/%E5%9B%BE%E7%89%871.png)
 ## 2.前端框架：
 
 图二 前端框架<br>
