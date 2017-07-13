@@ -1,0 +1,16 @@
+2015-02-01 16:08:42|DEBUG|debug from log|
+2015-02-01 16:08:42|TASK|something test for task|{"from":"phpunit"}
+2015-02-01 16:08:42|DEBUG|something debug here|{"name":"phpunit"}
+2015-02-01 16:08:42|DEBUG|This \n            should not be \n            multi line
+2015-02-01 16:08:42|INFO|something info here|phpunit
+2015-02-01 16:08:42|INFO|something info here|2014
+2015-02-01 16:08:42|INFO|something info here|1
+2015-02-01 16:08:42|ERROR|WTF!
+2015-02-01 16:10:16|DEBUG|debug from log|
+2015-02-01 16:10:16|TASK|something test for task|{"from":"phpunit"}
+2015-02-01 16:10:16|DEBUG|something debug here|{"name":"phpunit"}
+2015-02-01 16:10:16|DEBUG|This \n            should not be \n            multi line
+2015-02-01 16:10:16|INFO|something info here|phpunit
+2015-02-01 16:10:16|INFO|something info here|2014
+2015-02-01 16:10:16|INFO|something info here|1
+2015-02-01 16:10:16|ERROR|WTF!

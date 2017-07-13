@@ -1,0 +1,8 @@
+2015-02-05 00:14:47|DEBUG|debug from log|
+2015-02-05 00:14:47|TASK|something test for task|{"from":"phpunit"}
+2015-02-05 00:14:47|DEBUG|something debug here|{"name":"phpunit"}
+2015-02-05 00:14:47|DEBUG|This \n            should not be \n            multi line
+2015-02-05 00:14:47|INFO|something info here|phpunit
+2015-02-05 00:14:47|INFO|something info here|2014
+2015-02-05 00:14:47|INFO|something info here|1
+2015-02-05 00:14:47|ERROR|WTF!
