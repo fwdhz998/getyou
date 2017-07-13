@@ -4,14 +4,14 @@
     一款懂你的陌生人社交APP<br> 
 # 二. 项目内容<br> 
 ## 1.产品使用流程：<br> 
-    ![image](https://github.com/fwdhz998/getyou/blob/master/imgfolder/%E5%9B%BE%E7%89%871.png)<br> 
-    图一 产品使用流程
+    ![image](https://github.com/fwdhz998/getyou/blob/master/imgfolder/%E5%9B%BE%E7%89%871.png)
+    图一 产品使用流程<br> 
 ## 2.前端框架：
 
-图二 前端框架
+图二 前端框架<br>
 ## 3.后端框架
 
-图3 后端框架
+图3 后端框架<br>
 ## 4.算法框架：
    本项目算法框架由两部分构成，分别是用户标签过滤算法与情感分析算法，其中本项目主要完成用户标签过滤算法，情感分析算法由BosonNLP的API提供。<br> 
 ### 4.1标签过滤：
